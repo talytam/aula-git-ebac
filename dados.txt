@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Talyta
+-Profissão: QA
+-Cidade: Rio Azul
+-O que faz nas horas vaga: jogo, leio e assisto documentários 
+-Feedback sobre o curso Qualidade de Software: 10
+-Feedback sobre a plataforma de estudo da EBAC: 10
 
 Obrigado!!!
 
